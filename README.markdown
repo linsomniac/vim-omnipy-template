@@ -33,4 +33,4 @@ To Use
    * Start typing something and then type Control-X Control-O to bring
    up the completion menu.
 
-If you've had good or bad luck wit this, please let me know!
+If you've had good or bad luck with this, please let me know!
